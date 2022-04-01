@@ -1,5 +1,5 @@
 
-- 👋 Hi there, I'm Pelumi, Frontend Engineer at Inbranded Inc.
+- 👋 Hi there, I'm Pelumi, Frontend Developer at Inbranded Inc.
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on Frontend ReactJs Projects or React/TypeScript Projects.
 - 👀 I'm interested in JavaScript, ReactJS and basically anything related to Frontend web development.
